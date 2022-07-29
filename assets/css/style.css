@@ -1,0 +1,26 @@
+h1{
+    color: chocolate;
+}
+
+
+body{
+    background-image: url("../image/ponton.jpg");
+    background-repeat: no-repeat;
+    background-size: 800px;
+    background-position-x: center;
+    background-position-y: center;
+    
+}
+article{
+    border: 10px solid burlywood;
+    margin-left: 80px;
+    margin-bottom: 100px;
+    margin-right:80px;
+    text-align: center;
+    padding: 10px;
+}
+section{
+    margin-left: 600px;
+    margin-bottom: 100px;
+    margin-right:600px; 
+}
